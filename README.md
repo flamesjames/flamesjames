@@ -25,6 +25,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flamesjames&theme=tokyonight)
 
-### Support Me
+### Fuel Me⚡️
 
 <a href="https://www.buymeacoffee.com/flamesjames"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
