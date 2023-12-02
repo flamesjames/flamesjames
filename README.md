@@ -10,14 +10,13 @@
 
 - 📫 How to reach me **martinij29@gmail.com**
 
-- ⚡ Fun fact **I love house music and interested in DJing/Music Production**
+- ⚡ Fun fact **I love house music and the beach is my happy place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/james-martini/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://flamesjames.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
-  <a href="https://www.stackoverflow.com/users/6686222/james-martini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  <a href="https://discord.com/users/flamesjames#1957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>   
+<a href="https://www.stackoverflow.com/users/6686222/james-martini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/flamesjames#1957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
