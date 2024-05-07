@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/james-martini/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.stackoverflow.com/users/6686222/james-martini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.codewars.com/users/flamesjames" target="_blank" rel="noreferrer"><img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/224027/cw-512-12b281b9-f8a8-4512-9050-dcc2a2c7bb89.png" width="32" height="32" /></a>
 <a href="https://discord.com/users/flamesjames#1957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>   
 </p>
 
