@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **martinij29@gmail.com**
 
-- ⚡ Interests **Beach, Gym, House Music, Live Music, Building things, Being in Nature**
+- ⚡ Interests - **Beach, Gym, House Music, Live Music, Building things, Being in Nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
